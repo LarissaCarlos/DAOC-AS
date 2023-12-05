@@ -1,0 +1,25 @@
+*{
+    text-decoration: none;
+}
+
+:root {
+    --tamanho-borda: 20px
+}
+
+.imagem{
+    border-top-left-radius: var(--tamanho-borda);
+    border-top-right-radius: var(--tamanho-borda);
+}
+
+.info{
+    background-color: rgb(156, 156, 156);
+    color: white;
+    height: 100px;
+    border-bottom-right-radius: var(--tamanho-borda);
+    border-bottom-left-radius: var(--tamanho-borda);
+    text-align: center;
+}
+
+p{
+    padding-top: 3px;
+}

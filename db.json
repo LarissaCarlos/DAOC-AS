@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Produto 1",
+      "price": 19.99,
+      "description": "Descrição do Produto 1",
+      "photo_url": "https://popularpet.com.br/wp-content/uploads/2023/04/995a2852-sache-600x600.jpg.webp"
+    },
+    {
+      "id": 2,
+      "name": "Produto 2",
+      "price": 29.99,
+      "description": "Descrição do Produto 2",
+      "photo_url": "https://popularpet.com.br/wp-content/uploads/2023/04/8f8d2cf7-2181.jpg.webp"
+    },
+    {
+      "id": 3,
+      "name": "Produto 3",
+      "price": 39.99,
+      "description": "Descrição do Produto 3",
+      "photo_url": "https://popularpet.com.br/wp-content/uploads/2021/08/2220-8-600x600.jpg.webp"
+    },
+    {
+      "id": 4,
+      "name": "Produto 4",
+      "price": 49.99,
+      "description": "Descrição do Produto 4",
+      "photo_url": "https://popularpet.com.br/wp-content/uploads/2023/04/74a006a7-7896029047316.jpg.webp"
+    },
+    {
+      "id": 5,
+      "name": "Produto 5",
+      "price": 59.99,
+      "description": "Descrição do Produto 5",
+      "photo_url": "https://popularpet.com.br/wp-content/uploads/2023/04/f541405c-himg9058-550x5501-1.jpg.webp"
+    },
+    {
+      "id": 6,
+      "name": "Produto 6",
+      "price": 69.99,
+      "description": "Descrição do Produto 6",
+      "photo_url": "https://popularpet.com.br/wp-content/uploads/2023/04/0be81e88-1839-1.jpg.webp"
+    },
+    {
+      "id": 7,
+      "name": "Produto 7",
+      "price": 79.99,
+      "description": "Descrição do Produto 7",
+      "photo_url": "https://popularpet.com.br/wp-content/uploads/2023/04/a5955a73-macaco-de-pelucia1.png.webp"
+    },
+    {
+      "id": 8,
+      "name": "Produto 8",
+      "price": 89.99,
+      "description": "Descrição do Produto 8",
+      "photo_url": "https://popularpet.com.br/wp-content/uploads/2022/12/b415b591-878-600x600.jpg.webp"
+    },
+    {
+      "id": 9,
+      "name": "Produto 9",
+      "price": 99.99,
+      "description": "Descrição do Produto 9",
+      "photo_url": "https://popularpet.com.br/wp-content/uploads/2023/04/f903ffdd-cravo3.jpg.webp"
+    },
+    {
+      "id": 10,
+      "name": "Produto 10",
+      "price": 109.99,
+      "description": "Descrição do Produto 10",
+      "photo_url": "https://popularpet.com.br/wp-content/uploads/2023/04/62f5b231-7898491030070.jpg.webp"
+    }
+  ]
+}

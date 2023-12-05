@@ -1,0 +1,25 @@
+.welcome-container {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    justify-content: left;
+    padding-left: 500px;
+    align-items: center;
+}
+
+.blur-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F05d3fc5fea96a39a97043203fb6d6e6e.cdn.bubble.io%2Ff1690562509217x620589882169299700%2Fbanner%2520pnb.png?w=3072&h=&auto=compress&dpr=1&fit=max') center/cover;
+    filter: blur(2px);
+}
+
+.welcome-content {
+    text-align: left;
+    color: rgb(73, 73, 73);
+    z-index: 1;
+
+}
